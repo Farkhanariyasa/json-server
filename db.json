@@ -1,0 +1,48 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "iPhone 13",
+        "quantity": 226,
+        "price": 1000
+      },
+      {
+        "id": 2,
+        "name": "Samsung Galaxy S21",
+        "quantity": 5,
+        "price": 899
+      },
+      {
+        "name": "Advan J5",
+        "quantity": 5,
+        "price": 50,
+        "id": 3
+      }
+    ],
+    "purchasing": [
+      {
+        "productId": 1,
+        "quantity": 2,
+        "totalPrice": 2000,
+        "id": 1
+      },
+      {
+        "productId": 3,
+        "quantity": 2,
+        "totalPrice": 100,
+        "id": 2
+      },
+      {
+        "productId": 1,
+        "quantity": 5,
+        "totalPrice": 5000,
+        "id": 3
+      },
+      {
+        "productId": 1,
+        "quantity": 74,
+        "totalPrice": 74000,
+        "id": 4
+      }
+    ]
+  }
